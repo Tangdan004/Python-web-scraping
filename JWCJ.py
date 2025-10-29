@@ -41,4 +41,3 @@ for list in new_list:
         j+=1
     i+=1
 book.save('JiaoWuChengJi.xls')
-print u'\n录入成功！'
